@@ -1,4 +1,4 @@
-const DEBUG = true;
+const DEBUG = false;
 const PAGE_CONFIGS = {
     content: { count: 1791, prefix: "" },
     header: { count: 115, prefix: "A" },

@@ -33,7 +33,7 @@
     transition: filter 0.3s ease;
   }
 
-  .search-logo,
+  /* .search-logo, */
   .icon {
     filter: invert(80%);
   }
